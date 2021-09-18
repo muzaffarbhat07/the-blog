@@ -1,7 +1,7 @@
 # The Blog
 
 ## What it does
-The Blog is a simple react web app that uses JSON server to fetch data(blogs) from json file and displays them, and also allows users to add their own blo
+The Blog is a simple react web app that uses JSON server to fetch data(blogs) from json file and displays them, and also allows users to add their own blogs.
 
 ## How I built it
 The web app has been built using ReactJS and styled using CSS.
